@@ -21,5 +21,5 @@ A cerimônia contou com a presença do papa Pio VII, que proferiu um sermão na 
 
 - `go build cmd/napoleon`
 
-[Adicione o binário ao seu path](https://www.codecademy.com/pages/contribute-docs](https://zwbetz.com/how-to-add-a-binary-to-your-path-on-macos-linux-windows/)https://zwbetz.com/how-to-add-a-binary-to-your-path-on-macos-linux-windows/) para que a execução possa ser feita via terminal e toda vez que você for aprovar o seu próprio PR, gere uma frase do Napoleão e coloque como comentário.
+[Adicione o binário ao seu path](https://zwbetz.com/how-to-add-a-binary-to-your-path-on-macos-linux-windows/) para que a execução possa ser feita via terminal e toda vez que você for aprovar o seu próprio PR, gere uma frase do Napoleão e coloque como comentário.
 
